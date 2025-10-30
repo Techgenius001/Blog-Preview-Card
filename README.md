@@ -5,18 +5,18 @@ I took on this design challenge as part of my ongoing journey to refine my front
 
 ---
 
-## 🖼️ Preview
+## Preview
 
 ![Design Preview](design/desktop-design.jpg)
 
----
+
 
 ## Concept
 
 This project focuses on simplicity and balance — achieving a visually appealing card layout with clear hierarchy, subtle shadows, and responsive structure.  
 It’s a quick design experiment that highlights attention to detail and typography.
 
----
+
 
 ## Tools & Technologies
 
@@ -25,7 +25,7 @@ It’s a quick design experiment that highlights attention to detail and typogra
 - **Flexbox**
 - **Google Fonts**
 
----
+
 
 ## Design Notes
 
@@ -34,14 +34,14 @@ It’s a quick design experiment that highlights attention to detail and typogra
 - Focused on color contrast and typography for readability.
 - Ensured the layout stays consistent on all screen sizes.
 
----
+
 
 ## Reflection
 
 I enjoy doing these mini-projects because they help me experiment freely with layout, shadows, and visual rhythm without the pressure of client constraints.  
 Each challenge helps me refine my workflow, test new styles, and keep my creative energy alive.
 
----
+
 
 ##  Created By
 

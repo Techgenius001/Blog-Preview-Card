@@ -43,7 +43,7 @@ Each challenge helps me refine my workflow, test new styles, and keep my creativ
 
 ---
 
-## 🧑‍💻 Created By
+##  Created By
 
 **Samuel Njihia**  
 Front-End Developer  
